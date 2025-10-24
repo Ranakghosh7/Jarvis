@@ -81,7 +81,6 @@ Command	Response
 
 Built by Ranak Ghosh
 
-“Sometimes you gotta run before you can walk.” – Tony Stark
 
 If you like this project, ⭐ the repo and join the mission to make J.A.R.V.I.S even smarter.
 ---
