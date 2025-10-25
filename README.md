@@ -76,7 +76,6 @@ Command	Response
 
 🖥️ GUI dashboard for control and logs
 
-💬 Credits
 --
 
 Built by Ranak Ghosh
