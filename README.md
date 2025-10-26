@@ -54,7 +54,7 @@ Launch the assistant
 python jarvis.py
 
 
-Then sit back, say “Hey Jarvis”, and watch the magic happen. ✨
+Then sit back, say “Hey Jarvis”, and watch the magic happen. 
 
 🗣️ Sample Commands
 -------
