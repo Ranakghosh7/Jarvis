@@ -47,7 +47,7 @@ def processCommand(command):
                     for article in articles[:5]:  # Read only top 5 headlines
                         speak(article['title'])
                 else:
-                    speak("No news articles found.")
+                    speak("Sorry No news articles found.")
             else:
                 speak("Failed to fetch news.")
         except Exception as e:
@@ -65,7 +65,7 @@ def listen_for_command():
 
             if word == "jarvis":
                 speak("Yes?")
-                print("Jarvis Active... Listening for command.")
+                print("Jarvis Active... Listening for command's.")
                 
                 audio = recognizer.listen(source)
                 command = recognizer.recognize_google(audio)
