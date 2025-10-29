@@ -34,7 +34,11 @@ def processCommand(command):
         webbrowser.open("https://pornhub.com")  
     elif "open safari" in command:
         webbrowser.open("https://safari.com")
+    elif "open ganna" in command:
+        webbrowser.open("https://ganna.com")
 
+
+    
     elif "news" in command:  
         try:
             r = requests.get(f"https://newsapi.org/v2/top-headlines?country=us&apiKey={newsapi}")
