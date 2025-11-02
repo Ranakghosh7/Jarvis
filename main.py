@@ -19,7 +19,7 @@ def processCommand(command):
     command = command.lower()
 
     if "open google" in command:
-        webbrowser.open("https://google.com")
+        web browser.open("https://google.com")
     elif "open facebook" in command:
         webbrowser.open("https://facebook.com") 
     elif "open youtube" in command:
